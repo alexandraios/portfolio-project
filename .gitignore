@@ -1,1 +1,10 @@
+*.txt
 db.sqlite3
+.DS_Store
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assests/photoshop/
+assests/videos/
+!assests/videos/tour_*.mp4
